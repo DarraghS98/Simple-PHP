@@ -1,0 +1,45 @@
+html {
+    background-color:#D0D0D0;
+}
+body {
+    margin:0%;
+}
+header {
+    text-align:left;
+    background-color:#3cb371;
+    padding-top:.5em;
+
+}
+
+h2 {
+    text-align:center;
+}
+form {
+    display:block;
+    text-align:center;
+    padding:2em;
+}
+
+a {
+    text-align: center;
+    display:block;
+    padding:1.8em;
+    text-decoration:none;
+    font-size:2em;
+    color:black;
+}
+
+a:hover {
+    text-decoration:underline;
+    background-color:#3cb371;
+}
+
+label {
+    display: block;
+    text-align:center;
+}
+
+div {
+    text-align:center;
+    font-size:1em;
+}
